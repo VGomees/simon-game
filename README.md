@@ -15,3 +15,5 @@ CSS: Styling and animations.
 JavaScript: Game logic and DOM manipulation.
 
 This project was an excellent opportunity to apply and consolidate my knowledge in web development, as well as challenge myself to think logically and creatively. I am very satisfied with the final result and eager to continue learning and improving my skills.
+
+Demo: https://vgomees.github.io/simon-game/
